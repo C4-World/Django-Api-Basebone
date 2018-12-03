@@ -1,2 +1,2 @@
-# Django-Api-Basebone
-基于 Django 实现的一套通用的接口解决方案
+# immortal-core
+基于 django， django-restful-framework 的接口通用服务核心
